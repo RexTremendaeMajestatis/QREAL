@@ -1,0 +1,1 @@
+model.AnalogSensor.[Trik.SensorPort.@@PORT@@].Read()

@@ -1,0 +1,1 @@
+model.Sonars[Trik.SonarPort.@@PORT@@].Read()

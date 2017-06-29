@@ -1,0 +1,4 @@
+@@CONDITION@@
+begin
+@@BODY@@
+end;
